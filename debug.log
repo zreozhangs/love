@@ -1,0 +1,4 @@
+[0210/194018.689:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: 管道已结束。 (0x6D)
+[0210/195115.099:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: 管道已结束。 (0x6D)
+[0210/195258.689:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: 管道已结束。 (0x6D)
+[0210/200347.414:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: 管道已结束。 (0x6D)
